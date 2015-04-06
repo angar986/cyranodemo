@@ -175,7 +175,7 @@ function Pasar(){
 				
 			}
 		},10);
-		$('#btndeslisto').css('display','block');
+		$('#btndeslisto').css('display','');
 	}
 	var bas=$('#tablabase .agregado');
 	var agre=$('#tablaagregados .agregado');
